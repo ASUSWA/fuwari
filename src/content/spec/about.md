@@ -1,9 +1,10 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+社畜，每日通勤中。
 
-::github{repo="saicaca/fuwari"}
+Tech & ACGN 相关碎碎念。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+实在没活了，总之放一张我最喜欢的泪滴花束吧：
+
+![六花聖ティアドロップ][1]
+
+  [1]: https://blog-img-b2.asuswa.top/img/3fdbc3348365082d57a87f163cee5ae1.jpg#vwid=3024&vhei=4032
