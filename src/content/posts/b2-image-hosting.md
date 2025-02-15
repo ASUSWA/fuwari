@@ -1,5 +1,5 @@
 ---
-title: b2-image-hosting
+title: 基于 Backblaze B2 的个人图床搭建
 published: 2022-12-23
 description: '简单记录如何将 B2 当作图床使用'
 image: 'https://blog-img-b2.asuswa.top/img/2c7c747dd9816c14d90dfde758f68250.webp'
