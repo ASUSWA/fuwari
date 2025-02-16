@@ -15,7 +15,7 @@ export const siteConfig: SiteConfig = {
     fixed: false,     // Hide the theme color picker for visitors
   },
   banner: {
-    enable: false,
+    enable: true,
     src: 'https://blog-img-b2.asuswa.top/img/fuwari/fuwari-banner-7fa2a6bcc83cba5eb690106bea29524b.jpg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
