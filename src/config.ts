@@ -16,7 +16,7 @@ export const siteConfig: SiteConfig = {
   },
   banner: {
     enable: false,
-    src: 'assets/images/demo-banner.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    src: 'https://blog-img-b2.asuswa.top/img/fuwari/fuwari-banner-7fa2a6bcc83cba5eb690106bea29524b.jpg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
       enable: false,         // Display the credit text of the banner image
@@ -54,7 +54,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'https://blog-img-b2.asuswa.top/img/fuwari/miki_avatar_yellow-d12d434a8d061e4a909c83d150297b02.webp',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'ASUSWA',
   bio: 'Shimako, my love.',
   links: [
